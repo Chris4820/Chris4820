@@ -1,8 +1,6 @@
 # 👋 Olá, eu sou o Christophe
 
 🎓 Recém Licenciado em Engenharia Informática  
-💻 Apaixonado por desenvolvimento de software, backend e web  
-🚀 Sempre a aprender novas tecnologias e boas práticas  
 
 ---
 
