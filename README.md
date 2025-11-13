@@ -26,11 +26,6 @@
 
 ---
 
-## 📈 Atividade
-[![Gráfico de Atividade](https://github-readme-activity-graph.vercel.app/graph?username=Chris4820&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 📫 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/christophe-moreira)
 - [Email](mailto:chrismoreiraa02@gmail.com)
