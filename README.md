@@ -25,5 +25,3 @@
 ## 📫 Onde me encontrar
 - [LinkedIn](https://www.linkedin.com/in/christophe-moreira)
 - [Email](mailto:chrismoreiraa02@gmail.com)
-
-_Desenvolvedor júnior à procura de novos desafios e de aprender um pouco mais a cada projeto._
